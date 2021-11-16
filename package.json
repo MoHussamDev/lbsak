@@ -15,7 +15,7 @@
     "@google-cloud/storage": "^5.1.2",
     "@google-cloud/vision": "^2.1.1",
     "@hapi/joi": "^17.1.1",
-    "aws-sdk": "^2.726.0",
+    "aws-sdk": "^2.814.0",
     "axios": "^0.19.2",
     "bcrypt-nodejs": "0.0.3",
     "body-parser": "^1.19.0",
